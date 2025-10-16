@@ -2,8 +2,8 @@
 
 **Subject:** Information Assurance and Security 1  
 **Course:** BSIT  
-**Prepared by:** [Your Name]  
-**Date:** [Insert Date]
+**Prepared by:** Capino, Nerissa B.  
+**Date:** 10/16/2025
 
 ---
 
